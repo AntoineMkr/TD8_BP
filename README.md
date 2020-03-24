@@ -1,4 +1,3 @@
-# truffle-testing
 
 **All tests have been successful**
 
@@ -8,6 +7,7 @@ Antoine Mecker and Lou Prevot
 
 
 
+# truffle-testing
 
 
 A TD to learn how to use Truffle tests. This repo only has a test folder.
