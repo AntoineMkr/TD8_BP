@@ -1,0 +1,28 @@
+{
+  "name": "td8",
+  "version": "1.0.0",
+  "description": "A TD to learn how to use Truffle tests. This repo only has a test folder.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "solc": "^0.5.15",
+    "web3": "^1.0.0-beta.37"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineMkr/TD8_BP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoineMkr/TD8_BP/issues"
+  },
+  "homepage": "https://github.com/AntoineMkr/TD8_BP#readme"
+}
